@@ -1,0 +1,22 @@
+.div1 {
+    border: 2px solid #a3c1c7;
+    margin: 20px;
+    padding: 2rem;
+    white-space: nowrap;
+    text-align: center;
+    background: linear-gradient( to right, #ADA996, #F2F2F2, #DBDBDB,#EAEAEA );
+}
+
+.div2 {
+    border: 2px solid #88ce5a;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.div3 {
+    border: 1px solid black;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
